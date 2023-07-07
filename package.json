@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mishalalshahari/WhatsYourTakeApp/issues"
   },
-  "homepage": "https://github.com/mishalalshahari/WhatsYourTakeApp#readme"
+  "homepage": "https://github.com/mishalalshahari/WhatsYourTakeApp#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
