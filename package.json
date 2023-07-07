@@ -1,0 +1,20 @@
+{
+  "__comment1__": "this part defines project info",
+  "name": "whatsyourtake",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mishalalshahari/WhatsYourTakeApp.git"
+  },
+  "author": "Mishal Al Shahari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mishalalshahari/WhatsYourTakeApp/issues"
+  },
+  "homepage": "https://github.com/mishalalshahari/WhatsYourTakeApp#readme"
+}
